@@ -13,7 +13,7 @@ This currency converter & travel advice app is base on Candian dollar
 
 ![ScreenShot](/screenshots/select-country.png)
 
-* You will see a live currency rate (update every day)
+* You will see a live currency rate (update every day) with a build-in soft keyboard
 
 ![ScreenShot](/screenshots/show-exchange-rate.png)
 
